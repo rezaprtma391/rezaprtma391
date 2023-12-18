@@ -4,7 +4,7 @@ allow me to introduce myself, my name is **Muhamad Reza Pratama**.<br>
 
 i am a **Front End Web Developer**.<br>
 
-if you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-reza-pratama-5a28a7279/) ku ya.
+if you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-reza-pratama-5a28a7279/).
 
 ### Github Statistic
 <p align="left">

@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Muhamad Reza Pratama**.<br>
+allow me to introduce myself, my name is **Muhamad Reza Pratama**.<br>
 
-Saya seorang **Front End Web Developer**.<br>
+i am a **Front End Web Developer**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-reza-pratama-5a28a7279/) ku ya.
+if you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-reza-pratama-5a28a7279/) ku ya.
 
 ### Github Statistic
 <p align="left">

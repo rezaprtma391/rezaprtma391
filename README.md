@@ -2,7 +2,7 @@
 
 allow me to introduce myself, my name is **Muhamad Reza Pratama**.<br>
 
-i am a **Full Stack Developer**.<br>
+i am a **Software Engineer**.<br>
 
 if you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-reza-pratama-5a28a7279/).
 
